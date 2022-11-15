@@ -23,7 +23,6 @@ function handleNextBtnClick() {
 	currentImage.classList.add("current-img");
 	// remove the desired class
 	prevImage.classList.remove("current-img");
-	// console.log(currentIndex);
 	console.log(prevImage);
 }
 
@@ -44,7 +43,6 @@ function handlePrevBtnClick() {
 	currentImage.classList.add("current-img");
 	// remove the desired class
 	prevImage.classList.remove("current-img");
-	// console.log(currentIndex);
 	console.log(prevImage);
 }
 
